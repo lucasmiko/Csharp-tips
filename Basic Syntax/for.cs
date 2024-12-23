@@ -4,7 +4,7 @@ for (initialization; condition; iteration)
 {
     // Code to be executed
 }
-```
+
 /* Initialization: Executed once before the loop starts. Used to initialize the loop control variable.
 Condition: Evaluated before each iteration. If true, the loop continues; if false, the loop ends.
 Iteration: Executed after each iteration of the loop. Used to update the loop control variable.*/
