@@ -1,4 +1,4 @@
-// Article: Main Features of the C# Language and Its Use Cases
+//ENGLISH - Article: Main Features of the C# Language and Its Use Cases
 
 /*
 C# is a modern, object-oriented, and strongly-typed programming language developed by Microsoft as part of the .NET platform. Since its inception, C# has been widely adopted for developing a variety of applications, from desktop to web and mobile. Below, we highlight some of the main features of the language and the scenarios where its use is advantageous.
@@ -123,7 +123,7 @@ public class Program {
 
 /*------------------------------------------------------------------*/
 
-// Artigo: Principais Características da Linguagem C# e Seus Cenários de Uso
+// PORTUGUES - Artigo: Principais Características da Linguagem C# e Seus Cenários de Uso
 
 /*
 C# é uma linguagem de programação moderna, orientada a objetos e fortemente tipada, desenvolvida pela Microsoft como parte da plataforma .NET. Desde sua criação, C# tem sido amplamente adotada para o desenvolvimento de uma variedade de aplicações, desde desktop até web e mobile. Abaixo, destacamos algumas das principais características da linguagem e os cenários onde seu uso é vantajoso.
